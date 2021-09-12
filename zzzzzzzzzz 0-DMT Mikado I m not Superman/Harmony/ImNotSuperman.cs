@@ -4,7 +4,7 @@ using DMT;
 using UnityEngine;
 
 
-namespace Harmony_Mikado_Core
+namespace Harmony_Mikado_Core_ImNotSuperman
 {
     public class ImNotSupermanDMT
     {
